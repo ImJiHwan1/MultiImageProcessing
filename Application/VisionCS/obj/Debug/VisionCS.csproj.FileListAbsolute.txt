@@ -1,0 +1,13 @@
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\obj\Debug\VisionCS.Form1.resources
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\obj\Debug\VisionCS.csproj.GenerateResource.cache
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\bin\Debug\VisionCS.exe.config
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\bin\Debug\VisionCS.exe
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\bin\Debug\VisionCS.pdb
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\obj\Debug\VisionCS.Properties.Resources.resources
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\obj\Debug\VisionCS.exe
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\obj\Debug\VisionCS.pdb
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\obj\Debug\VisionCS.csprojAssemblyReference.cache
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\VisionCS\obj\Debug\VisionCS.csproj.CoreCompileInputs.cache
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\Exe\VisionCS.exe.config
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\Exe\VisionCS.exe
+C:\Users\gamef\OneDrive\바탕 화면\실무 프로그래밍\12장\Application\Exe\VisionCS.pdb
